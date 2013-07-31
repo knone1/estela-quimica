@@ -197,3 +197,11 @@ a:hover img{border:none;opacity:0.65;filter:Alpha(opacity=65);}
 #related-posts h2{font-size:14px;font-weight:400;color:#555;font-family:Oswald,Arial;margin-bottom:.75em;margin-top:0;padding-top:5px;text-transform:uppercase;}
 #related-posts a{color:#000;}
 #related-posts a:hover{color:#000;background-color:#d4eaf2;}
+
+#blog-pager{font-size:normal;clear:both;padding:10px 0;}
+.showpageArea{font-family:verdana,arial,helvetica;color:#000;font-size:11px;margin:10px;}
+.showpageArea a{color:#000;text-shadow:0 1px 2px #fff;font-weight:700;}
+.showpageNum a{text-decoration:none;border:1px solid #999;-webkit-border-radius:3px;-moz-border-radius:3px;background:#ddd url(http://4.bp.blogspot.com/_McxL-_3YYuM/TBG_a0U9fJI/AAAAAAAAAAU/qcqAF8aqWME/s1600/wp1.jpg) 0 -50px repeat-x;margin:0 4px;padding:3px 8px;}
+.showpageNum a:hover{border:1px solid #888;background:#ccc url(http://4.bp.blogspot.com/_McxL-_3YYuM/TBG_a0U9fJI/AAAAAAAAAAU/qcqAF8aqWME/s1600/wp1.jpg) 0 -25px repeat-x;}
+.showpageOf{margin:0 4px 0 0;}
+.showpagePoint{color:#fff;text-shadow:0 1px 2px #333;font-weight:700;-webkit-border-radius:3px;-moz-border-radius:3px;border:1px solid #999;background:#666 url(http://4.bp.blogspot.com/_McxL-_3YYuM/TBG_a0U9fJI/AAAAAAAAAAU/qcqAF8aqWME/s1600/wp1.jpg) 0 0 repeat-x;text-decoration:none;margin:2px;padding:3px 8px;}
