@@ -5,13 +5,6 @@ body#layout .topad {height:120px;}
 body#layout #nbtfeature {display:none;}
 body#layout #slider {display:none;}
 
-/* Variable definitions
-   ====================
-
-*/
-
-/* Use this with templates/template-twocol.html */
-
 body{font-family:Arial, Tahoma, Century gothic, sans-serif;color:#333;font-size:13px;background:url(http://4.bp.blogspot.com/-tYAVgLFqPQI/UHVnWxZguCI/AAAAAAAAHco/G3w9RUIuYnY/s1600/body.png);margin:0 auto;padding:0;}
 img{border:0;margin:0;}
 a{color:#CA333E;text-decoration:none;outline:none;}
@@ -215,7 +208,6 @@ ul.recent_posts_with_thumbs li {padding-bottom:5px;padding-top:5px;min-height:75
 .recent_posts_with_thumbs h4 {
 font-size: 14px;
 }
-
 
 ul.w2b_recent_comments{list-style:none;margin:0;padding:0;}
 .w2b_recent_comments li{background:none !important;margin:0 0 6px !important;padding:0 0 6px 0 !important;display:block;clear:both;overflow:hidden;list-style:none;}
