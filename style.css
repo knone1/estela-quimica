@@ -215,3 +215,11 @@ ul.recent_posts_with_thumbs li {padding-bottom:5px;padding-top:5px;min-height:75
 .recent_posts_with_thumbs h4 {
 font-size: 14px;
 }
+
+
+    ul.w2b_recent_comments{list-style:none;margin:0;padding:0;}
+    .w2b_recent_comments li{background:none !important;margin:0 0 6px !important;padding:0 0 6px 0 !important;display:block;clear:both;overflow:hidden;list-style:none;}
+    .w2b_recent_comments li .avatarImage{padding:3px;background:#fefefe;-webkit-box-shadow:0 1px 1px #ccc;-moz-box-shadow:0 1px 1px #ccc;box-shadow:0 1px 1px #ccc;float:left;margin:0 6px 0 0;position:relative;overflow:hidden;}
+    .avatarRound{-webkit-border-radius:100px;-moz-border-radius:100px;border-radius:100px;}
+    .w2b_recent_comments li img{padding:0px;position:relative;overflow:hidden;display:block;}
+    .w2b_recent_comments li span{margin-top:4px;color: #666;display: block;font-size: 12px;font-style: italic;line-height: 1.4;}
