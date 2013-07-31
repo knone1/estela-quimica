@@ -72,14 +72,3 @@ document.write('');
 }document.write('</ul>');
  
 }
-//]]>
-</script>
-<script style='text/javascript'>
-var numposts = 5;
-var showpostthumbnails = true;
-var displaymore = true;
-var displayseparator = true;
-var showcommentnum = true;
-var showpostdate = true;
-var showpostsummary = true;
-var numchars = 80;
