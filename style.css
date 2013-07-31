@@ -90,6 +90,23 @@ a.morer{background:#555;float:right;color:#fff!important;padding:5px 10px;}
 .sidebar .widget-content{line-height:18px;margin:0;padding:5px 10px;}
 .sidebar ul{list-style-type:none;list-style:none;margin:0;padding:0;}
 .sidebar ul li{border-bottom:1px solid #fafafa;margin:0;padding:5px 0;}
+#w2b-mashable{width:260px;margin:auto;padding:0;}
+.w2b-googleplus {height: 57px;}
+.w2b-facebook {background:#FFFFFF;border: 1px solid #DCDCDC;margin-top: -2px;padding: 5px 10px;}
+.w2b-gplusone {background-color: #f5fcfe;border: 1px solid #d8e6eb;border-top: 1px solid white;font-size: .87em;color: black;padding: 9px 0 0 11px;line-height: 24px;height:30px;}
+.w2b-gplusone span {display: inline-block;vertical-align: middle;height: 20px;margin-top: -17px;font-size: 11px;font-family: "Arial","Helvetica",sans-serif;}
+.w2b-twitter {background-color: #eef9fd;border: 1px solid #c7dbe2;border-top: 0;}
+.w2b-twitter a.twitter-follow-button {display: block;}
+.w2b-twitter iframe {margin: 9px 11px;}
+.w2b-emailbox {background-color: #E3EDF4;border: 1px solid #b6d0da;border-top: 1px solid #eff5f7;padding: 12px 16px;overflow: hidden;}
+.w2b-emailbox form{width:100%;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;-ms-box-sizing: border-box;box-sizing: border-box;border: 0;}
+.w2b-emailbox input.emailu {float:left;-webkit-box-sizing: border-box;-moz-box-sizing: border-box;-ms-box-sizing: border-box;box-sizing: border-box;border: 0;color: #999;padding: 7px 10px 8px;width: 100%;-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;font-size: 13px;}
+.w2b-emailbox input.emailu:focus {color: #333;}
+.w2b-emailbox input.submitu {-webkit-border-radius: 3px;-moz-border-radius: 3px;border-radius: 3px;color: white;padding: 7px 14px;font-weight: bold;font-size: 12px;float: right;cursor: pointer;}
+.w2b-emailbox input.submitu:hover {text-decoration: none;}
+.w2bRed {border: 1px solid #A0350E;text-shadow: #A0350E 1px 1px 0;background: #ed7347;background: -webkit-linear-gradient(top, #ed7347 0%, #c63800 100%);background: -moz-linear-gradient(top, #ed7347 0%, #c63800 100%);background: -o-linear-gradient(top, #ed7347 0%, #c63800 100%);background: -ms-linear-gradient(top, #ed7347 0%, #c63800 100%);background: linear-gradient(top, #ed7347 0%, #c63800 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ed7347', endColorstr='#c63800',GradientType=0 );}
+.w2bRed:hover{background: #ed9476;background: -moz-linear-gradient(top, #ed9476 0%, #d14410 100%);background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ed9476), color-stop(100%,#d14410));background: -webkit-linear-gradient(top, #ed9476 0%,#d14410 100%);background: -o-linear-gradient(top, #ed9476 0%,#d14410 100%);background: -ms-linear-gradient(top, #ed9476 0%,#d14410 100%);background: linear-gradient(top, #ed9476 0%,#d14410 100%);filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ed9476', endColorstr='#d14410',GradientType=0 );}.w2b-moresubs {background: none repeat scroll 0 0 #EBEBEB;border-style: solid;border-width: 1px;border-color: #fff #ccc #ccc;padding: 3px 8px 3px 3px;text-align: right;font-size: 7px;letter-spacing: 1px;}
+.w2b-moresubs a {display: inline-block;font-weight: bold;color: #1E598E;text-decoration: none;text-shadow: 1px 1px 1px #fff;}
 h1.pagetitle{font-size:14px;margin-bottom:20px;color:#777;}
 #bottom{width:998px;background:#222;border-left:1px solid #111;border-right:1px solid #111;border-bottom:1px solid #111;margin:0 auto;}
 .bottomcover{background:url(http://3.bp.blogspot.com/-7pnpVd3SipQ/UHVnX09RaJI/AAAAAAAAHcw/eS2dYc4CKnI/s1600/bottom.png);padding-bottom:20px;margin:0 auto;}
@@ -175,3 +192,8 @@ a.says{color:#000;font:normal normal 14px Arial, Tahoma, Verdana;}
 #share-social a:hover img{opacity:1;filter:Alpha(opacity=100);}
 
 a:hover img{border:none;opacity:0.65;filter:Alpha(opacity=65);}
+
+#related-posts{float:center;text-transform:none;height:100%;min-height:100%;padding-top:5px;padding-left:5px;}
+#related-posts h2{font-size:14px;font-weight:400;color:#555;font-family:Oswald,Arial;margin-bottom:.75em;margin-top:0;padding-top:5px;text-transform:uppercase;}
+#related-posts a{color:#000;}
+#related-posts a:hover{color:#000;background-color:#d4eaf2;}
