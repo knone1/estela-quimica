@@ -219,9 +219,6 @@ ul.w2b_recent_comments{list-style:none;margin:0;padding:0;}
 .PopularPosts .item-title {font-size:14px;font-weight: bold;}
 .PopularPosts .item-snippet {font-size: 12px;font-style: italic;}
 .PopularPosts img {
-padding: 2px;
-border: 0;
-float: left;
 margin: 5px 10px 10px 0;
 border: 1px solid #ccc;
 }
