@@ -217,3 +217,4 @@ ul.w2b_recent_comments{list-style:none;margin:0;padding:0;}
 .w2b_recent_comments li span{margin-top:4px;color: #666;display: block;font-size: 12px;font-style: italic;line-height: 1.4;}
 
 .PopularPosts .item-title {font-size:14px;font-weight: bold;}
+.PopularPosts .item-snippet {font-size: 12px;font-style: italic;}
