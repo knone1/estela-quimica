@@ -205,3 +205,13 @@ a:hover img{border:none;opacity:0.65;filter:Alpha(opacity=65);}
 .showpageNum a:hover{border:1px solid #888;background:#ccc url(http://4.bp.blogspot.com/_McxL-_3YYuM/TBG_a0U9fJI/AAAAAAAAAAU/qcqAF8aqWME/s1600/wp1.jpg) 0 -25px repeat-x;}
 .showpageOf{margin:0 4px 0 0;}
 .showpagePoint{color:#fff;text-shadow:0 1px 2px #333;font-weight:700;-webkit-border-radius:3px;-moz-border-radius:3px;border:1px solid #999;background:#666 url(http://4.bp.blogspot.com/_McxL-_3YYuM/TBG_a0U9fJI/AAAAAAAAAAU/qcqAF8aqWME/s1600/wp1.jpg) 0 0 repeat-x;text-decoration:none;margin:2px;padding:3px 8px;}
+
+img.recent_thumb {padding:2px;width:70px;height:70px;border:0;
+float:left;margin:5px 10px 10px 0; border: 1px solid #ccc;}
+.recent_posts_with_thumbs {float: left;width: 100%;min-height: 100px;margin: 0px 0px 5px 0px;padding: 0;font-size:12px;}
+ul.recent_posts_with_thumbs li {padding-bottom:5px;padding-top:5px;min-height:75px;}
+.recent_posts_with_thumbs a {text-decoration:none;}
+.recent_posts_with_thumbs strong {font-size:10px;}
+.recent_posts_with_thumbs h4 {
+font-size: 14px;
+}
