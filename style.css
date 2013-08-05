@@ -216,3 +216,4 @@ ul.w2b_recent_comments{list-style:none; margin:0; padding:0}
 .avatarRound{-webkit-border-radius:100px; -moz-border-radius:100px; border-radius:100px}
 .w2b_recent_comments li img{padding:0px; position:relative; overflow:hidden; display:block}
 .w2b_recent_comments li span{margin-top:4px; color:#666; display:block; font-size:12px; font-style:italic; line-height:1.4}
+.comments {margin-top: 0px!important;}
