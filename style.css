@@ -145,8 +145,6 @@ a.says{color:#000; font:normal normal 14px Arial,Tahoma,Verdana}
 .profile-data{text-transform:uppercase; letter-spacing:.1em; color:#000; font-weight:700; line-height:1.6em; margin:0}
 .profile-datablock{margin:.5em 0}
 .profile-textblock{line-height:1.6em; margin:.5em 0}
-.avatar-image-container{background:url(http://4.bp.blogspot.com/_4HKUHirY_2U/TLlJUqSaolI/AAAAAAAAEq4/qpgAHAOe9x0/s1600/comment-avatar.jpg); width:32px; height:32px; float:right; border:#ddd solid 1px; margin:5px 10px 5px 5px}
-.avatar-image-container img{width:32px; height:32px}
 .profile-link{text-transform:uppercase; letter-spacing:.1em}
 .comment-form{max-width:600px}
 #navbar-iframe{height:0; visibility:hidden; display:none}
