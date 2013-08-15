@@ -186,7 +186,7 @@ h2.date-header{display:none;margin:1.5em 0 .5em;}
 #share-social a:hover img{opacity:1;filter:Alpha(opacity=100);}
 a:hover img{border:none;opacity:0.65;filter:Alpha(opacity=65);}
 #related-posts{float:center;text-transform:none;height:100%;min-height:100%;padding-top:5px;padding-left:5px;}
-#related-posts h2{font-size:14px;font-weight:400;color:#555;font-family:Oswald,Arial;margin-bottom:.75em;margin-top:0;padding-top:5px;text-transform:uppercase;}
+#related-posts h2{color: #fff;margin-bottom: 2px;font: 400 14px Oswald,Arial;background: #333535;text-transform: uppercase;padding: 10px 10px 7px;}
 #related-posts a{color:#000;}
 #related-posts a:hover{color:#000;background-color:#d4eaf2;}
 #blog-pager{font-size:normal;clear:both;padding:10px 0;}
