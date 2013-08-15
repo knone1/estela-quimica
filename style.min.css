@@ -80,7 +80,7 @@ a.morer{background:#555;float:right;color:#fff!important;padding:5px 10px;}
 .sidebar a{text-decoration:none;color:#6f6f6f;}
 .sidebar a:hover{text-decoration:none;color:#c90000;}
 .sidebar .widget{background:#f4f4f4;margin:0 0 25px;padding:0;}
-.sidebar .widget h2{color:#fff;margin-bottom:2px;font:400 14px Oswald,Arial;background:#333535;text-transform:uppercase;padding:10px 10px 7px;}
+.widget .title{color:#fff;margin-bottom:2px;font:400 14px Oswald,Arial;background:#333535;text-transform:uppercase;padding:10px 10px 7px;}
 .sidebar .widget-content{line-height:18px;margin:0;padding:5px 10px;}
 .sidebar ul{list-style-type:none;list-style:none;margin:0;padding:0;}
 .sidebar ul li{border-bottom:1px solid #fafafa;margin:0;padding:5px 0;}
