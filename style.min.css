@@ -54,6 +54,7 @@ html[xmlns] .clearfix{display:block;}
 .post{color:#555;margin:0 0 15px;}
 .post-body{line-height:24px;border-bottom:1px solid #EAEAEA;}
 .entry-meta{font-family:Oswald,Arial;padding:2px 0 8px;}
+.post-footer{margin:5px 0;}
 .postimg{float:left;background:#fff;border:#eee solid 1px;margin:10px 10px 10px 0;padding:4px;}
 .bposttitle h3{font-size:22px;font-family:Oswald,Arial;font-weight:400;text-transform:uppercase;margin:0;padding:5px 0;}
 .bposttitle h3 a,.bposttitle h2 a:link,.bposttitle h2 a:visited{color:#3a3a3a;background-color:transparent;}
