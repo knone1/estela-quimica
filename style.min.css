@@ -163,7 +163,7 @@ h2.date-header{display:none;margin:1.5em 0 .5em;}
 .comm a:hover,.category a:hover{color:#000;}
 .botwid ul,.botwid li{list-style-type:none;margin:0;padding:0;}
 .botwid ul ul ul,.botwid ul ul ul ul{list-style-type:none;border:0;margin:0;padding:0;}
-.article-accions{border-bottom:1px dotted #EAEAEA;border-top:1px dotted #EAEAEA;float:right;height:30px;position:relative;width:100%;margin:5px 0 15px;}
+.article-accions{float:right;height:30px;position:relative;width:100%;margin:5px 0 15px;}
 #share-button{list-style-type:none;list-style-position:inside;padding:0;}
 #share-button li{border:0 none;float:none;position:absolute;top:5px;}
 #share-button li.twitter{left:0;}
